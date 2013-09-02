@@ -10,7 +10,7 @@
 
 #include <cmath>
 #include <cfloat>
-#include "..\include\datatypes.h"
+#include "../include/datatypes.h"
 
 class PhysicsEngine {
 public:
